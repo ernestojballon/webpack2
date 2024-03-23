@@ -1,0 +1,7 @@
+@import "../../main.css";
+
+.someClass {
+  background: red;
+  font-family: Arial, sans-serif;
+  /* Other styles */
+}

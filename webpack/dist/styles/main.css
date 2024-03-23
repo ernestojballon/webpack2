@@ -1,0 +1,46 @@
+/*!****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/main.css ***!
+  \****************************************************************/
+body{
+  background: whitesmoke;
+}
+
+
+.someClassFromMain {
+  background: salmon;
+  font-family: Arial, sans-serif;
+  /* Other styles */
+}
+.someUnusedClassFromMain {
+  background: yellow;
+  font-family: Arial, sans-serif;
+  /* Other styles */
+}
+
+/*!********************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/main.css ***!
+  \********************************************************************************************/
+body{
+  background: whitesmoke;
+}
+
+
+.main__someClassFromMain___ZvAmA {
+  background: salmon;
+  font-family: Arial, sans-serif;
+  /* Other styles */
+}
+.main__someUnusedClassFromMain___qEhOp {
+  background: yellow;
+  font-family: Arial, sans-serif;
+  /* Other styles */
+}
+
+/*!*********************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/homeMessage/homeMessage.module.css ***!
+  \*********************************************************************************************************************************/
+.homeMessage-module__someClass___bzuiF {
+  background: red;
+  font-family: Arial, sans-serif;
+  /* Other styles */
+}

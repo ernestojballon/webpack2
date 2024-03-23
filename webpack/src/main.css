@@ -1,0 +1,15 @@
+body{
+  background: whitesmoke;
+}
+
+
+.someClassFromMain {
+  background: salmon;
+  font-family: Arial, sans-serif;
+  /* Other styles */
+}
+.someUnusedClassFromMain {
+  background: yellow;
+  font-family: Arial, sans-serif;
+  /* Other styles */
+}

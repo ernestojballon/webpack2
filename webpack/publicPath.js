@@ -1,0 +1,1 @@
+__webpack_public_path__ = 'https://cdn3.url.com/'
